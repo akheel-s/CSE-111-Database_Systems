@@ -6,3 +6,5 @@ WHERE(
     o_orderdate >= "1996-09-10" AND 
     o_orderdate <= "1996-09-12"
 );
+
+-- Completed with the help of TA
